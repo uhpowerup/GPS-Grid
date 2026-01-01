@@ -1,12 +1,11 @@
 # 🛰️ GPS Time & Grid Viewer
 
+<img width="802" height="938" alt="GPS Grid" src="https://github.com/user-attachments/assets/6f6d7711-0a4f-41a1-b896-41b71e9396db" />  
+
 A modern Windows application for displaying **live GPS time and location data** from a serial-connected GPS receiver. Designed with **radio amateurs**, **time-nuts**, and technical users in mind.
 
 **GPS Time & Grid Viewer** provides accurate **UTC time**, **local time**, **latitude / longitude**, **Maidenhead locator**, and **UK Ordnance Survey National Grid references** in a clean, dark-themed interface.
-
-> **Author:** UHPOWERUP  
-> **Amateur Radio Callsign:** 2E0UMR  
-
+ 
 ---
 
 ## ✨ Features
